@@ -30,7 +30,7 @@ conda activate hest
 Run the following script to download and prepare the dataset:
 
 ```bash
-bash getdata.sh
+sbatch getdata.sh
 ```
 
 This script:
